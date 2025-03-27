@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Maria Eduarda Ramos!
 
-💻 Desenvolvedora Web | Formado em Análise e Desenvolvimento de Sistemas   
+💻 Desenvolvedora Web | Formada em Análise e Desenvolvimento de Sistemas   
 🎯 Buscando sempre aprimorar minhas habilidades  
 
 ## 🚀 Tecnologias que uso:
