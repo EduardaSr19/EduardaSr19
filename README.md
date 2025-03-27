@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou Maria Ramos!
 
-<!--
-**EduardaSr19/EduardaSr19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Web | PHP | JavaScript | Bootstrap  
+🎨 Também trabalho com design  
+🎯 Buscando sempre aprimorar minhas habilidades  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso:
+- 🖥️ Front-end: HTML, CSS, JavaScript, Bootstrap  
+- 🛠️ Back-end: PHP, MySQL  
+- 📦 Ferramentas: Git, GitHub, Apache Tomcat  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-perfil/)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=wordpress&logoColor=white)](https://seu-site.com)
+
+---
+⭐ **Se gostou do meu perfil, me siga e confira meus projetos!**
