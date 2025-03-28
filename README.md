@@ -5,7 +5,7 @@
 
 ## 🚀 Tecnologias que uso:
 - 🖥️ Front-end: HTML, CSS, JavaScript, Bootstrap  
-- 🛠️ Back-end: PHP, MySQL  
+- 🛠️ Back-end: PHP, MySQL, Java, Jakarta EE
 - 📦 Ferramentas: Git, GitHub, Apache Tomcat  
 
 ### 📫 Como me encontrar:
