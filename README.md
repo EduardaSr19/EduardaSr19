@@ -9,7 +9,7 @@
 - 📦 Ferramentas: Git, GitHub, Apache Tomcat  
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-ramos-001b16191/)   [![Portfólio](https://img.shields.io/badge/Portfólio-ff4d00?style=for-the-badge)](https://eduardaramos.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-ramos-001b16191/) 
 
 
 
