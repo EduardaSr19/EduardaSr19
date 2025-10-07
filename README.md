@@ -1,22 +1,21 @@
 # 👋 Olá, eu sou Maria Eduarda Ramos!
 
-💻 Desenvolvedora de Software
-
-🎓 Formada em Análise e Desenvolvimento de Sistemas
-
-🚀 Apaixonada por tecnologia e sempre em busca de novos desafios!
+💻 Desenvolvedora de Software | 🎓 Formada em Análise e Desenvolvimento de Sistemas | 🚀 Apaixonada por tecnologia e sempre em busca de novos desafios!
 
 Atualmente, estou me aprofundando em React, Next.js, TypeScript, Node.js, e explorando ferramentas modernas como Tailwind CSS, Prisma, Docker, Husky e shadcn/ui, com foco em aprimorar minhas habilidades em desenvolvimento Full Stack.
 Gosto de criar interfaces dinâmicas, sistemas funcionais e soluções que realmente facilitem a vida das pessoas.
 
 ## 🛠️ Tecnologias e Ferramentas
 🎨 Front-end
+
 HTML | CSS | JavaScript | TypeScript | React | Next.js | Tailwind CSS | shadcn/ui
 
 ⚙️ Back-end
+
 Node.js | PHP | Java | Jakarta EE | MySQL | Prisma
 
 🧰 Dev Tools
+
 Docker | Git | GitHub | Husky | Apache Tomcat | VS Code | Eclipse
 
 📈 Objetivo: evoluir constantemente, contribuir em projetos reais e construir soluções de impacto utilizando as melhores práticas de desenvolvimento.
